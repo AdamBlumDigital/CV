@@ -22,7 +22,7 @@ This template uses the following CTAN packages:
 If you aren't using any math (pretty safe bet for a CV) you may omit the
 loading of `newtxmath` in lines 32-37 of [CV.cls](cv.cls#L32-L37):
 
-https://github.com/AdamBlumDigital/CV/blob/main/cv.cls#L32-L37 
+https://github.com/AdamBlumDigital/CV/blob/28200816b9e90c401c3903d7406da0b381ba399a/cv.cls#L32-L37
 
 ## Compilation
 
