@@ -9,15 +9,15 @@ The typeface is the wonderful Linux Biolinum from the [Libertine Fonts Project](
 
 This template uses the following CTAN packages:
 
-- `nopageno`
-- `geometry`
-- `liberinte`
-- `newtxmath`
-- `fontenc`
-- `parskip`
-- `phonenumbers`
-- `titlesec`
-- `enumitem`
+- `nopageno`, for removing page numbers
+- `geometry`, for setting page margins
+- `libertine`, for using Linux Biolinum
+- `newtxmath`, for using Libertine fonts in math mode
+- `fontenc`, for Type 1 font encoding
+- `parskip`, for easy removal of paragraph indentation 
+- `phonenumbers`, for proper typesetting of phone numbers
+- `titlesec`, for easy styling of section titles
+- `enumitem`, for easy modification of list formatting
 
 If you aren't using any math (pretty safe bet for a CV) you may omit the
 loading of `newtxmath` in lines 32-37 of [CV.cls](cv.cls#L32-L37):
