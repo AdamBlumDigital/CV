@@ -1,5 +1,5 @@
 ## Actual CV with PII
-cv.private.tex
+*.private.*
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
